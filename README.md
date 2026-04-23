@@ -2,6 +2,8 @@
 
 ### Windows 原版镜像网站
 
+[UUP dump](https://uupdump.net/)
+
 [MSDN, 我告诉你](https://msdn.itellyou.cn/)
 
 [NEXT, ITELLYOU](https://next.itellyou.cn/)
@@ -9,6 +11,8 @@
 ### 装机 PE 工具箱
 
 [微PE工具箱 - 超好用的WinPE装机维护工具](https://www.wepe.com.cn/)
+
+[IT天空 ITSK PE](https://www.itsk.com/thread/435110)
 
 [Edgeless - 强大而优雅的半开源PE工具](https://home.edgeless.top/)
 
@@ -23,6 +27,12 @@
 [balenaEtcher - Flash OS images to SD cards & USB drives, safely and easily.](https://www.balena.io/etcher/)
 
 [UltraISO 软碟通](https://cn.ultraiso.net/)
+
+### PXE网络引导
+
+[netboot.xyz](https://netboot.xyz/)
+
+[iVentoy](https://www.iventoy.com/)
 
 ### 硬件检测工具箱
 
@@ -46,15 +56,29 @@
 
 #### 激活工具
 
-[HEU KMS Activator](https://www.ghxi.com/heukmsactivator.html)
+[HEU KMS Activator](https://github.com/zbezj/HEU_KMS_Activator/releases)
+
+[Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)
+
+[CMWTAT_Digital_Edition Win10/Win11 数字权利（数字许可证）激活工具](https://github.com/TGSAN/CMWTAT_Digital_Edition)
 
 [Office Tool Plus 官方网站 - 一键部署Office](https://otp.landian.vip/zh-cn/)
 
 #### 驱动安装
 
-[360驱动大师精简单文件版](https://www.ghxi.com/360drvmgr.html)
+[ITSK 驱动（26V1，万能驱动 9）](https://www.itsk.com/thread/435112)
 
 #### 安全软件
+
+[Microsoft Defender](https://www.microsoft.com/en-us/microsoft-365/microsoft-defender-for-individuals)
+
+[Bitdefender](https://www.bitdefender.com/)
+
+[Avira 德国小红伞](https://www.avira.com/)
+
+[ESET](https://www.eset.com)
+
+[Emsisoft](https://www.emsisoft.com/)
 
 [火绒安全软件](https://www.huorong.cn/)
 
@@ -64,51 +88,45 @@
 
 [Wise Care 365 Pro](https://www.ghxi.com/wisecare365.html)
 
-[CCleaner Pro](https://www.ghxi.com/ccleanerpro.html)
-
 [Wise Registry Cleaner Pro](https://www.ghxi.com/wiseregcleaner.html)
 
 #### 常用运行库
 
 [微软常用运行库合集](https://www.ghxi.com/yxkhj.html)
 
+[Easy Runtime v2（26R1，VC++ 运行库一键装）](https://www.itsk.com/thread/435116)
+
 [微软.NET离线运行库合集](https://www.ghxi.com/nethj.html)
 
 [VisualCppRedist运行库合集](https://www.ghxi.com/visualcppredist.html)
 
-#### 磁盘分区 & 数据恢复
+#### 磁盘 & 数据恢复
 
 [DiskGenius](https://www.diskgenius.cn/)
+
+[HD Tune Pro](https://www.hdtune.com/index.html)
 
 [R-Studio](https://www.ghxi.com/rstudio.html)
 
 [傲梅分区助手](https://www.ghxi.com/aomeipartitionassistant.html)
 
+[R.saver 俄罗斯数据恢复](https://rlab.ru/tools/rsaver.html)
+
 #### 输入法
 
 [搜狗输入法 去广告安装版](https://www.ghxi.com/sougouinput.html)
 
-#### 即时通讯
-
-[腾讯QQ](https://im.qq.com/pcqq)
-
-[PC微信](https://pc.weixin.qq.com/)
-
-[钉钉](https://www.dingtalk.com/)
+#### 端到端加密通讯
 
 [Telegram](https://desktop.telegram.org/)
 
-#### 影音娱乐
+[Signal](https://signal.org/)
 
-[QQ音乐 去广告绿色版](https://www.ghxi.com/pcqqmusic.html)
+#### 影音娱乐
 
 [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop/releases)
 
-[腾讯视频 去广告纯净版](https://www.ghxi.com/qqlive.html)
-
 [PotPlayer (网络播放器)](https://www.ghxi.com/potplayer.html)
-
-[抖音PC版](https://www.douyin.com/downloadpage)
 
 #### 视频剪辑
 
@@ -130,15 +148,11 @@
 
 [Internet Download Manager](https://www.423down.com/575.html)
 
-[迅雷11绿色精简版](https://www.ghxi.com/thunder11green.html)
-
 [Motrix - 一款全能的下载工具](https://motrix.app/zh-CN/)
 
 [qBittorrent(BT种子下载器) 便携版](https://www.ghxi.com/qbittorrentbt.html)
 
 [阿里云盘小白羊版](https://github.com/liupan1890/aliyunpan/releases)
-
-[百度网盘 PC客户端 绿色纯净版](https://www.ghxi.com/pcbdwp.html)
 
 #### 浏览器
 
@@ -160,11 +174,11 @@
 
 #### 远程控制工具
 
-[向日葵远程控制软件](https://sunlogin.oray.com/)
-
-[ToDesk远程控制软件](https://www.todesk.com/)
-
 [TeamViewer远程控制软件](https://www.teamviewer.cn/cn/)
+
+[Sunshine](https://github.com/lizardbyte/sunshine)
+
+[RustDesk](https://rustdesk.com/)
 
 #### 编程开发
 
@@ -172,19 +186,17 @@
 
 [Python](https://www.python.org/downloads/)
 
-[Java](https://www.java.com/zh-CN/)
+[Rust](https://rust-lang.org/)
 
 [Golang](https://go.dev/)
+
+[Java](https://www.java.com/zh-CN/)
 
 ###### 开发IDE
 
 [Visual Studio Code](https://code.visualstudio.com/)
 
 [Visual Studio](https://visualstudio.microsoft.com/zh-hans/)
-
-[PyCharm](https://www.jetbrains.com/pycharm/)
-
-[IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 [GitHub Desktop](https://desktop.github.com/)
 
