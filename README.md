@@ -130,6 +130,10 @@
 
 #### 视频剪辑
 
+[DaVinci Resolve 21 (达芬奇)](https://www.blackmagicdesign.com/products/davinciresolve)
+
+[Adobe Premiere (Unfree)](https://www.adobe.com/products/premiere.html)
+
 [剪映专业版](https://lv.ulikecam.com/)
 
 [必剪](http://bcut.drawyoo.com/)
@@ -137,8 +141,6 @@
 #### 录屏截图
 
 [Snipaste 截图工具](https://zh.snipaste.com/)
-
-[QQScreenShot(QQ截图) 提取版](https://www.ghxi.com/qqscreenshot.html)
 
 [OBS Studio 录屏工具](https://obsproject.com/zh-cn)
 
