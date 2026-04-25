@@ -8,6 +8,12 @@
 
 [NEXT, ITELLYOU](https://next.itellyou.cn/)
 
+### Windows 精简镜像
+
+[Windows X-Lite](https://windowsxlite.com/)
+
+[Tiny11](https://github.com/ntdevlabs/tiny11builder)
+
 ### 装机 PE 工具箱
 
 [微PE工具箱 - 超好用的WinPE装机维护工具](https://www.wepe.com.cn/)
